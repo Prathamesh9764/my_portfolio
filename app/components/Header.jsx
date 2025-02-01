@@ -5,7 +5,7 @@ import { motion } from "motion/react"
 
 const Header = () => {
     return (
-        <div className="w-11/12 max-w-3xl text-center mx-auto h-[130vh] flex flex-col items-center justify-center gap-4 ">
+        <div className="w-11/12 max-w-3xl text-center mx-auto h-[100vh] sm:h-[110vh] md:h-[120vh] lg:h-[130vh] xl:h-[140vh] 2xl:h-[150vh] flex flex-col items-center justify-center gap-4 ">
             <motion.div
                 initial={{ scale: 0 }}
                 whileInView={{ scale: 1 }}
