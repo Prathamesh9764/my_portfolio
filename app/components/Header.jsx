@@ -58,10 +58,11 @@ const Header = () => {
                     whileInView={{ y: 0, opacity: 1 }}
                     transition={{ duration: 0.6, delay: 1.2 }}
 
-                    href="https://drive.google.com/file/d/1QPPsNWVQsZ-M8YKRLa98KRFhir4bumGD/view?usp=drive_link" target='_blank' download
+                    href="https://drive.google.com/file/d/1gXEa-AXJPRbjrJo9I3LJuW8dGmxsqkC0/view?usp=drivesdk" target='_blank' download
                     className='px-10 py-3 border rounded-full border-gray-500 flex items-center gap-2 bg-white dark:text-black'>
                     my resume
-                    <Image src={assets.download_icon} alt='' className='w-4' />
+                    {/* <Image src={assets.download_icon} alt='' className='w-4' /> */}
+                    <Image src={assets.arrow_icon} alt='' className='w-4' />
                 </motion.a>
             </div>
         </div>
