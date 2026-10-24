@@ -10,7 +10,7 @@
 
 A modern, high-performance, dark-themed personal portfolio showcasing full-stack engineering, AI/computer vision projects, and workflow automation.
 
-[View Demo](https://github.com/Prathamesh9764) · [Report Bug](https://github.com/Prathamesh9764/issues) · [Request Feature](https://github.com/Prathamesh9764/issues)
+[Live Demo](https://my-portfolio-jet-eight-44.vercel.app/) · [Report Bug](https://github.com/Prathamesh9764/issues) · [Request Feature](https://github.com/Prathamesh9764/issues)
 
 </div>
 
