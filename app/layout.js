@@ -52,9 +52,17 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en" className="dark scroll-smooth">
       <body
-        className={`${outfit.variable} ${ovo.variable} font-sans antialiased text-slate-800 bg-[#fafcff] dark:bg-darkTheme dark:text-slate-100 min-h-screen selection:bg-indigo-500 selection:text-white`}
+        className={`${outfit.variable} ${ovo.variable} font-sans antialiased text-slate-800 bg-[#f8fafc] dark:bg-darkTheme dark:text-slate-100 min-h-screen selection:bg-indigo-500 selection:text-white`}
       >
-        {children}
+        <a
+          href="#main-content"
+          className="sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 focus:z-[999] focus:px-4 focus:py-2 focus:rounded-lg focus:bg-indigo-600 focus:text-white focus:shadow-lg"
+        >
+          Skip to main content
+        </a>
+        <div id="main-content">
+          {children}
+        </div>
       </body>
     </html>
   );
