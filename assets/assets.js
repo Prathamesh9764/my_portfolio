@@ -118,8 +118,8 @@ export const workData = [
         detailedDescription: 'PrathHub is a modern news portal built with React.js and REST APIs to provide fast, responsive, and seamless access to breaking news and articles across multiple categories. Features responsive design, clean typography, category navigation, and optimal performance across all devices.',
         tags: ['React.js', 'Next.js', 'Tailwind CSS', 'JavaScript', 'REST API'],
         bgImage: '/work-1.png',
-        liveUrl: 'https://github.com/Prathamesh9764',
-        githubUrl: 'https://github.com/Prathamesh9764',
+        liveUrl: 'https://github.com/Prathamesh9764/PrathHub',
+        githubUrl: 'https://github.com/Prathamesh9764/PrathHub',
     },
     {
         title: 'Real-Time Yoga Posture Detection & Correction',
@@ -128,8 +128,8 @@ export const workData = [
         detailedDescription: 'An intelligent yoga posture detection application leveraging deep learning and computer vision (YOLOv8) to evaluate user poses in real time. Features keypoint detection on live webcams, images, and videos with an interactive Streamlit UI to guide users toward injury-free posture alignment.',
         tags: ['Python', 'OpenCV', 'YOLOv8', 'Deep Learning', 'Computer Vision', 'Streamlit'],
         bgImage: '/work-2.png',
-        liveUrl: 'https://github.com/Prathamesh9764',
-        githubUrl: 'https://github.com/Prathamesh9764',
+        liveUrl: 'https://github.com/Prathamesh9764/Yoga-Posture-Detection',
+        githubUrl: 'https://github.com/Prathamesh9764/Yoga-Posture-Detection',
     },
     {
         title: 'Shivaanzari Online Store',
@@ -138,8 +138,8 @@ export const workData = [
         detailedDescription: 'An e-commerce web platform created for Shivaanzari boutique. Features product galleries, filtering, responsive shopping cart, interactive product views, and high-performance frontend rendering.',
         tags: ['React.js', 'JavaScript', 'Tailwind CSS', 'Node.js', 'MongoDB'],
         bgImage: '/work-3.png',
-        liveUrl: 'https://github.com/Prathamesh9764',
-        githubUrl: 'https://github.com/Prathamesh9764',
+        liveUrl: 'https://github.com/Prathamesh9764/Shivaanzari-Online-Store',
+        githubUrl: 'https://github.com/Prathamesh9764/Shivaanzari-Online-Store',
     },
     {
         title: 'Modern UI/UX Design System',
