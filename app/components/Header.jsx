@@ -127,7 +127,7 @@ const Header = () => {
 
           <div className="flex items-center gap-1.5">
             <a
-              href="/sample-resume.pdf"
+              href={personalInfo.resumeDownload}
               download="Prathamesh_Vijaywar_Resume.pdf"
               className="inline-flex items-center gap-2 px-5 py-3 rounded-full bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-medium text-sm hover:bg-slate-800 dark:hover:bg-slate-100 transition-all duration-200 hover:-translate-y-0.5 shadow-sm"
               title="Download PDF Resume"
