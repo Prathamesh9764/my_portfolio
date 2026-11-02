@@ -105,8 +105,8 @@ export const personalInfo = {
     github: 'https://github.com/Prathamesh9764',
     linkedin: 'https://www.linkedin.com/in/prathamesh-vijaywar-925885250/',
     instagram: 'https://www.instagram.com/theprathamesh_9/profilecard/?igsh=MW1xcnprdW0xMzRwOQ',
-    resumeDrive: 'https://drive.google.com/file/d/1gXEa-AXJPRbjrJo9I3LJuW8dGmxsqkC0/view?usp=drivesdk',
-    resumeLocal: '/sample-resume.pdf',
+    resumeDrive: 'https://drive.google.com/file/d/1oNif-XOXVS9sTQIsq1LQJRaVOjNj8qyP/view?usp=sharing',
+    resumeDownload: 'https://drive.google.com/uc?export=download&id=1oNif-XOXVS9sTQIsq1LQJRaVOjNj8qyP',
     bio: 'Junior Developer at Moodscope AI Pvt Ltd and B.Tech graduate in Information Technology (7.84 CGPA, 2024) from YCCE, Nagpur. Over 1 year of experience building responsive web applications, robust backend services, scalable architectures, and AI integrations (OpenCV, YOLOv8). Outside of code, avid cyclist and cricket enthusiast.'
 };
 
