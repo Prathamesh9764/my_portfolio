@@ -112,6 +112,16 @@ export const personalInfo = {
 
 export const workData = [
     {
+        title: 'Intelligent Vehicle Detection System — Enforcement Console',
+        category: 'AI & Data Analytics',
+        description: 'Modern, AI-powered traffic surveillance, optical character recognition (ANPR), and automated speed violation enforcement console.',
+        detailedDescription: 'An enterprise-grade, full-stack traffic surveillance and enforcement console (IVDS). Combines YOLOv8 and OCR/ANPR models for vehicle detection and license plate recognition with automated speed gate calculations ((distance / dt) * 3.6). Powered by a high-performance FastAPI backend with PostgreSQL, Redis IPC broker for multi-camera RTSP ingestion, low-latency WebSocket live streaming, Role-Based Access Control (Admin/Operator/Viewer), and a modern React 19 + Vite dashboard featuring 3D perspective highway simulation, dynamic dark/light themes, and interactive telemetry analytics.',
+        tags: ['FastAPI', 'Python', 'React 19', 'YOLOv8', 'OpenCV', 'ANPR / OCR', 'PostgreSQL', 'Redis', 'WebSockets', 'Tailwind CSS'],
+        bgImage: '/work-5.png',
+        liveUrl: 'https://github.com/Prathamesh9764/Intelligent-Vehicle-Detection-System',
+        githubUrl: 'https://github.com/Prathamesh9764/Intelligent-Vehicle-Detection-System',
+    },
+    {
         title: 'PrathHub - News Platform',
         category: 'Web Development',
         description: 'A dynamic news & content aggregator delivering categorized news feeds, responsive reading interfaces, and streamlined article discovery.',
@@ -234,7 +244,7 @@ export const infoList = [
         icon: assets.project_icon,
         iconDark: assets.project_icon_dark,
         title: 'Experience & Projects',
-        description: 'Junior Developer @ Moodscope AI (1+ Yr Total), Freelance Developer, 6+ Full Projects Built'
+        description: 'Junior Developer @ Moodscope AI (1+ Yr Total), Freelance Developer, 7+ Full Projects Built'
     }
 ];
 
@@ -374,7 +384,7 @@ export const experienceData = [
 
 export const statsData = [
     { number: '1+ Yr', label: 'At Moodscope AI' },
-    { number: '6+', label: 'Projects Completed' },
+    { number: '7+', label: 'Projects Completed' },
     { number: '2+', label: 'Freelance Clients' },
     { number: '12+', label: 'Technologies Mastered' },
 ];
